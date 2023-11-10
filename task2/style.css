@@ -1,0 +1,32 @@
+h1 {
+    color: purple !important
+}
+h2 {
+    color: orange
+}
+a {
+    text-decoration: none;
+}
+a: link{
+    color: yellow
+} 
+a:visited{
+    color: red
+}
+a:hover {
+    color: black
+}
+body {
+    font-family: sans-serif;
+}
+img {
+    cursor: pointer;
+
+}
+.pic { 
+    padding: 50px;
+    margin: 50px;
+    background: blue;
+    border: 10px solid black;
+    width: 300px ;   
+    }
